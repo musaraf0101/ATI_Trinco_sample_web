@@ -145,7 +145,7 @@
           <p class="card-text text-muted">
             To simplify and secure the way people connect with qualified service providers, making everyday problems easier to solve.
           </p>
-          <a href="#" class="read_more">Read more...</a>
+          <a href="/message/director-genrel" class="read_more">Read more...</a>
         </div>
       </div>
     </div>
@@ -159,7 +159,7 @@
           <p class="card-text text-muted">
             We're not just a directory. We're a solution-focused platform that ensures quality, reliability, and customer satisfaction with every interaction.
           </p>
-          <a href="#" class="read_more">Read more...</a>
+          <a href="/message/director" class="read_more">Read more...</a>
         </div>
       </div>
     </div>

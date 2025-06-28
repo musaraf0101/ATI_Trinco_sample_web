@@ -51,7 +51,6 @@
 </style>
 
 <!-- Carousel -->
-<!-- Carousel -->
 <div class="container my-3">
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
         <!-- Indicators -->
@@ -93,8 +92,7 @@
     <div class="department-box mt-3">
         <div class="card p-3"><a href="/course/hnd-accounts">Higher national diploma in Accountancy</a></div>
         <div class="card p-3"><a href="/course/hnd-it">Higher national diploma in Information Technology</a></div>
-        <div class="card p-3"><a href="#">Higher national diploma in English</a></div>
-        <div class="card p-3"><a href="#">Higher national diploma in Tourism & Hotel management</a></div>
+        <div class="card p-3"><a href="/course/hnd-english">Higher national diploma in English</a></div>
     </div>
 </div>
 

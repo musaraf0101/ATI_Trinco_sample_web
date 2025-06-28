@@ -30,11 +30,11 @@
             <div class="col-md-4 mb-3">
                 <h5 style="font-weight: bold;">Usefull Links</h5>
                 <ul class="list-unstyled">
-                    <li><a href="#" class="text-white text-decoration-none" style="font-weight: bold;">NAITA</a></li>
-                    <li><a href="#" class="text-white text-decoration-none" style="font-weight: bold;">SLIATE</a></li>
-                    <li><a href="#" class="text-white text-decoration-none" style="font-weight: bold;">Government Information Center</a></li>
-                    <li><a href="#" class="text-white text-decoration-none" style="font-weight: bold;">Ministry of Education - Higher Education</a></li>
-                    <li><a href="#" class="text-white text-decoration-none" style="font-weight: bold;">SLIATE LMS</a></li>
+                    <li><a href="https://naita.gov.lk/" class="text-white text-decoration-none" target="_blank" style="font-weight: bold;">NAITA</a></li>
+                    <li><a href="http://www.sliate.ac.lk/" class="text-white text-decoration-none" target="_blank" style="font-weight: bold;">SLIATE</a></li>
+                    <li><a href="https://gic.gov.lk/" class="text-white text-decoration-none" target="_blank" style="font-weight: bold;">Government Information Center</a></li>
+                    <li><a href="https://www.mohe.gov.lk/index.php?lang=en" class="text-white text-decoration-none" target="_blank" style="font-weight: bold;">Ministry of Education - Higher Education</a></li>
+                    <li><a href="https://lms.sliate.ac.lk/" class="text-white text-decoration-none" target="_blank" style="font-weight: bold;">SLIATE LMS</a></li>
                 </ul>
             </div>
 
