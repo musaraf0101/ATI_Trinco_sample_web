@@ -11,3 +11,6 @@ Route::get('/about', function () {
 Route::get('/course/hnd-it',function(){
     return view('common_pages.course.hnd_it_view');
 });
+Route::get('/course/hnd-accounts',function(){
+    return view('common_pages.course.hnd_account_view');
+});

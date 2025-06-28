@@ -91,7 +91,7 @@
 <div class="container text-center my-5">
     <h3 class="fw-bold">Department & Course</h3>
     <div class="department-box mt-3">
-        <div class="card p-3"><a href="#">Higher national diploma in Accountancy</a></div>
+        <div class="card p-3"><a href="/course/hnd-accounts">Higher national diploma in Accountancy</a></div>
         <div class="card p-3"><a href="/course/hnd-it">Higher national diploma in Information Technology</a></div>
         <div class="card p-3"><a href="#">Higher national diploma in English</a></div>
         <div class="card p-3"><a href="#">Higher national diploma in Tourism & Hotel management</a></div>
