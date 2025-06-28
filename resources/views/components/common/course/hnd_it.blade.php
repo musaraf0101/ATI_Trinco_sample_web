@@ -54,7 +54,7 @@
         <!-- column -->
         <div class="col">
             <!-- icon container -->
-            <div class="g-col-6 mt-3">
+            <div class="g-col-6 mt-5 mb-5">
                 <div class="row">
                     <div class="col">
                         <div class="container">
@@ -85,35 +85,42 @@
             <!-- grid system -->
             <div class="grid text-center">
                 <!--  -->
-                <div class="g-col-6">
+                <div class="g-col-6 mt-5 mb-5">
                     <div class="requirements-container">
                         <h2>Entry Requirements</h2>
                         <ul>
                             <li>
-                                <strong>A/L Option:</strong> Minimum 2 passes at G.C.E A/L in Mathematics/Science Streams & Technology stream with ICT
+                                <strong>A/L Option:</strong> Minimum 3 passes at G.C.E A/L in any stream
                             </li>
                             <li>
                                 <span class="and-text">AND</span>
-                                <strong>O/L Option:</strong> Sat for G.C.E A/L in Mathematics/Science Streams & Technology stream with ICT
+                                <strong>O/L Option:</strong> Sat for G.C.E O/L in English & Maths S pass
                             </li>
                         </ul>
                     </div>
                 </div>
                 <!--  -->
-                <div class="g-col-6 mt-3">
+                <div class="g-col-6 mt-5 mb-5">
                     <div class="requirements-container">
-                        <h4>Awarding By</h4>
+                        <h4 style="font-weight: bold;">Awarding By</h4>
                         <span>SLIATE</span>
-                        <h4>Highlights</h4>
+                        <h4 style="font-weight: bold;">Highlights</h4>
                         <span>UGC Recognized</span>
                     </div>
                 </div>
                 <!--  -->
-                <div class="g-col-6 mt-3">
+                <div class="g-col-6 mt-5 mb-5">
                     <div class="requirements-container">
-                        <h4>Career Opportunities</h4>
-                        <ul>
-                            <li>software</li>
+                        <h4 style="font-weight: bold;">Career Opportunities</h4>
+                        <ul style="text-transform: capitalize;">
+                            <li>Software Developer</li>
+                            <li><span style="text-transform:uppercase;">ui/ux</span> designer</li>
+                            <li>System Analyst</li>
+                            <li>Business Analyst</li>
+                            <li>Network Administrators</li>
+                            <li>Web developers</li>
+                            <li>Hardware Technicians</li>
+                            <li>Multimedia Graphic designer</li>
                         </ul>
                     </div>
                 </div>
@@ -124,17 +131,67 @@
         <div class="col">
             <div class="requirements-container">
                 <h2>Course Structure and Modules</h2>
-                <span>Year 1</span>
+                <span style="font-weight: bold;font-size:20px;">Year 1</span>
                 <ul>
-                    <li>fcs</li>
+                    <li>
+                        <span style="font-weight:bold;">Semester 1</span>
+                        <ul>
+                            <li>HNDIT1012: Visual Application Programming</li>
+                            <li>HNDIT1022: Web Design</li>
+                            <li>HNDIT1032: Computer and Network Systems</li>
+                            <li>HNDIT1042: Information Management and Information Systems</li>
+                            <li>HNDIT1052: ICT Project (Individual)</li>
+                            <li>HNDIT1062: Communication Skills</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <span style="font-weight:bold;">Semester 2</span>
+                        <ul>
+                            <li>HNDIT2012: Fundamentals of Programming</li>
+                            <li>HNDIT2022: Software Development</li>
+                            <li>HNDIT2032: System Analysis and Design</li>
+                            <li>HNDIT2042: Data communication and Computer Networks</li>
+                            <li>HNDIT2052: Principles of User Interface Design</li>
+                            <li>HNDIT2062: ICT Project (Group)</li>
+                            <li>HNDIT2072: Technical Writing</li>
+                            <li>HNDIT2082: Human Value and Professionalism</li>
+                        </ul>
+                    </li>
                 </ul>
-                <span>Year 2</span>
+                <span style="font-weight: bold;font-size:20px;">Year 2</span>
                 <ul>
-                    <li>db</li>
+                    <li>
+                        <span style="font-weight:bold;">Semester 1</span>
+                        <ul>
+                            <li>HNDIT3012: Object Oriented Programming</li>
+                            <li>HNDIT3022: Web Programming</li>
+                            <li>HNDIT3032: Data Structures and Algorithms</li>
+                            <li>HNDIT3042: Database Management Systems</li>
+                            <li>HNDIT3052: Operating Systems</li>
+                            <li>HNDIT3062: Information and Computer Security</li>
+                            <li>HNDIT3072: Statistics for IT</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <span style="font-weight:bold;">Semester 2</span>
+                        <ul>
+                            <li>HNDIT4012: Software Engineering</li>
+                            <li>HNDIT4022: Software Quality Assurance</li>
+                            <li>HNDIT4032: IT Project Management</li>
+                            <li>HNDIT4042: Professional World</li>
+                            <li>HNDIT4052: Programming Individual Project</li>
+                            Elective modules
+                            <li>HNDIT4212: Machine Learning</li>
+                            <li>HNDIT4222: Business Analysis Practice</li>
+                            <li>HNDIT4232: Enterprise Architecture</li>
+                            <li>HNDIT4242: Computer Services Management</li>
+                        </ul>
+                    </li>
                 </ul>
-                <span>Year 3</span>
+                <span style="font-weight: bold;font-size:20px;">Year 3</span>
                 <ul>
-                    <li>sfdsj</li>
+                    <span style="font-weight:bold;">Semester 1</span>
+                    <li>Internship</li>
                 </ul>
             </div>
         </div>
