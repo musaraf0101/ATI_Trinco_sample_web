@@ -10,7 +10,7 @@
           <a class="nav-link active" aria-current="page" href="#" style="font-weight: bold;"> <span style="color: green;">Trinco</span>&nbsp;ATI</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" href="#">Courses</a>
@@ -19,7 +19,7 @@
           <a class="nav-link active" href="#">Notices</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="#">About us</a>
+          <a class="nav-link active" href="/about">About us</a>
         </li>
       </ul>
       <form class="d-flex" role="search">
